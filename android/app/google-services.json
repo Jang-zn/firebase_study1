@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "363890020492",
+    "project_id": "flutter-study-mall-zn2309",
+    "storage_bucket": "flutter-study-mall-zn2309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363890020492:android:320db8650114d41bb36ba9",
+        "android_client_info": {
+          "package_name": "com.jangk.shopping_study"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "363890020492-ma54ukrp7igmud6dhak4j1ekn5ukcfgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jangk.shopping_study",
+            "certificate_hash": "bf43b1d9112dc73f257da24a57fc2a3c50affa30"
+          }
+        },
+        {
+          "client_id": "363890020492-bkbmcckhe1me75li1qq529mp9ch2rns1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaNUdYvX6sjWESycUzVqwnD9gStOJK3B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "363890020492-bkbmcckhe1me75li1qq529mp9ch2rns1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
