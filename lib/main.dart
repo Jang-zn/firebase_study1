@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:shopping_study/main.mapper.g.dart';
 
 void main() {
+  initializeJsonMapper();
   runApp(const MyApp());
 }
 

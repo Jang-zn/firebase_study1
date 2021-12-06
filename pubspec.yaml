@@ -36,6 +36,8 @@ dependencies:
   cupertino_icons: ^1.0.2
   iamport_flutter: ^0.10.0-dev.5
   webview_flutter: ^2.3.1
+  dart_json_mapper: ^2.1.17
+  reflectable: ^3.0.4
 
 dev_dependencies:
   flutter_test:
@@ -47,6 +49,7 @@ dev_dependencies:
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
   flutter_lints: ^1.0.0
+  build_runner:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
