@@ -2,8 +2,9 @@
     package="com.jangk.shopping_study">
    <application
         android:label="shopping_study"
-        android:icon="@mipmap/ic_launcher">
-        <activity
+        android:icon="@mipmap/ic_launcher"
+        android:usesCleartextTraffic="true">
+       <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
             android:theme="@style/LaunchTheme"
